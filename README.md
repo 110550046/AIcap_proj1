@@ -8,9 +8,9 @@ wikiart.org
 
 ## iii.	amount and composition:
 ### dataset overview:
-1.	total images: 			2464 (部分重複)
-2.	total size: 			30.0MB
-3.	number of classes: 	5
+1.	total images: 2464 (部分重複)
+2.	total size: 30.0MB
+3.	number of classes: 5
 
 ### image composition:
 1.	resolution range: Min (194x63), Max (210x840), Avg (210x247)
@@ -44,5 +44,5 @@ class林布蘭(21.4%)
 ## v.	data collection process:
 手動保存，部分畫作為png檔，寫了一段小程式確保每個檔案都是jpg檔。(convert_png_to_jpg.py)
 
-## 授權聲明
-本資料集僅供學術研究與非商業用途，請勿用於商業應用。
+## 聲明
+本資料集僅用於學術研究，非商業用途，也請勿將此數據集用於商業用途。
